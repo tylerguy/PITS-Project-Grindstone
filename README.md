@@ -7,3 +7,7 @@ All our exchanges with Peach, who is indeed a traitor to UMAD, have been include
 All our investigations on UMAD have been reported in /info (https://github.com/tylerguy/PITS-Project-Grindstone/tree/main/info).
 
 I want to see Peach (who we believed to be under an alliance) punished for exposing the acts of UMAD, in exchange for my cooperation I hope I can gain good standing within the ranks of UMAD
+
+Also, here's a list of everyone involved in the operation, all of whose names are the same in the discord.
+
+![image](https://user-images.githubusercontent.com/18733966/129980659-3ecfc702-fc0b-48d7-8908-3333089dabdb.png)
