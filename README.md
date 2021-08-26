@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2021-08-26T11:02:44.723Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-26T11:02:42.038Z
+---
+
 # PITS-Project-Grindstone
 
 I'm done with the PITS, also known as the Peach Investigation and Tactics Squad, so I've decided to make all this information public, should it deem useful in UMAD's Investigations.
