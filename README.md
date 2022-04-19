@@ -1,12 +1,3 @@
----
-title: README
-description: 
-published: true
-date: 2021-08-26T11:02:44.723Z
-tags: 
-editor: markdown
-dateCreated: 2021-08-26T11:02:42.038Z
----
 
 # PITS-Project-Grindstone
 
